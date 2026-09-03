@@ -125,7 +125,7 @@ onMounted(load);
 <style scoped>
 .form-group input:disabled,
 .form-group textarea:disabled {
-  background: var(--white);
+  background: var(--surface);
   color: var(--text);
   cursor: default;
   opacity: 1;
